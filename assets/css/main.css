@@ -1,0 +1,45 @@
+img{
+	width: 40%;
+	border-radius: 5%;
+	border:2px solid red;
+}
+
+body{
+	background-color: black;
+}
+
+h1{
+	text-align: center;
+	color: #610B0B;
+}
+
+.btn-bar{
+	margin-left: 33%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+.circle{
+	border-radius: 45%;
+	background-color: #626262;
+	border:#626262 1px solid;
+}
+
+.circle:hover{
+	background-color: #8D223A;
+}
+.left, .right{
+	background-color: transparent;
+	color:#626262;
+	border:none;
+}
+
+.left:hover, .right:hover{
+	background-color: transparent;
+	color:#8D223A;
+	border:none;
+}
+
+li{
+	list-style: none;
+}
